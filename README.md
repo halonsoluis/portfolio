@@ -27,13 +27,13 @@ Later on, I started experimenting with it and it has been my playground for test
 <!-- Portfolio Gallery Grid -->
 <p align="center">
 <img src="images/marvel/marvel_characters_list.png" width="230">
-<img src="images/marvel/marvel_characters_search.png" width="230">
 <img src="images/marvel/marvel_characters_detail.png" width="230">
+<img src="images/marvel/marvel_characters_cover_detail.png" width="230">
 </p>
 
 [//]: # " Images"
 
-[marvelCharactersVideo]: ./images/marvel/marvel-recording-small.mov
+[marvelCharactersVideo]: ./images/marvel/marvel-characters-transitions-video.gif
 
 [//]: # "Badges"
 
