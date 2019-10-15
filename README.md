@@ -33,7 +33,7 @@ Later on, I started experimenting with it and it has been my playground for test
 
 [//]: # " Images"
 
-[marvelCharactersVideo]: ./images/marvel/marvel&#32;recording.mov
+[marvelCharactersVideo]: ./images/marvel/marvel-recording-small.mov
 
 [//]: # "Badges"
 
