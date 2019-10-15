@@ -1,4 +1,8 @@
 
+[//]: # "HTML"
+
+<link rel="stylesheet" type="text/css" media="all" href="css/stylesheet.css"/>
+
 [//]: # "Badges"
 
 [![curriculum vitae][badge_downloadcv]][downloadCV]
@@ -70,7 +74,3 @@ Later on, I started experimenting with it and it has been my playground for test
 [stackoverflow]: https://stackoverflow.com/story/hugo-alonso-luis
 [linkedIn]: https://www.linkedin.com/in/hugoalonsoluis/?locale=en_US
 [twiiter]: https://twitter.com/hugoalonsoluis
-
-[//]: # "HTML"
-
-<link rel="stylesheet" type="text/css" media="all" href="css/stylesheet.css"/>
