@@ -1,8 +1,3 @@
-
-[//]: # "HTML"
-
-<link rel="stylesheet" type="text/css" media="all" href="css/stylesheet.css"/>
-
 [//]: # "Badges"
 
 [![curriculum vitae][badge_downloadcv]][downloadCV]
@@ -30,28 +25,9 @@ Later on, I started experimenting with it and it has been my playground for test
 
 
 <!-- Portfolio Gallery Grid -->
-<div class="row">
-    <div class="column">
-      <div class="content">
-        <img src="images/marvel/marvel_characters_list.png">
-      </div>
-    </div>
-    <div class="column">
-      <div class="content">
-        <img src="images/marvel/marvel_characters_search.png">
-      </div>
-    </div>
-    <div class="column">
-      <div class="content">
-        <img src="images/marvel/marvel_characters_detail.png">
-      </div>
-    </div>
-    <div class="column">
-      <div class="content">
-        <img src="images/marvel/marvel_characters_cover_detail.png" >
-      </div>
-    </div>
-  </div>
+<img src="images/marvel/marvel_characters_list.png" width="230">
+<img src="images/marvel/marvel_characters_search.png" width="230">
+<img src="images/marvel/marvel_characters_detail.png" width="230">
 
 [//]: # " Images"
 
