@@ -1,6 +1,6 @@
 [//]: # "Badges"
 
-<center>
+<p style="text-align: center;">
 
 [![curriculum vitae][badge_downloadcv]][downloadCV]
 [![email][badge_mailTo]][mailTo]
@@ -9,16 +9,13 @@
 [![twitter][badge_twiiter]][twiiter]
 [![stackoverflow][badge_stackoverflow]][stackoverflow]
 
-</center>
-
 [//]: # "About me"
 
-
-<center>
 <img src="https://s.gravatar.com/avatar/940f6d1d1bede335b0af0a6c774fa12f?s=230" style="border-radius: 50%">
 
 # Hugo Alonso Luis
-</center>
+
+</p>
 
 Hi!,
 A *happy human* that loves being a `coder` over here!
@@ -46,12 +43,13 @@ Later on, I started experimenting with it and it has been my playground for test
 
 <!-- Portfolio Gallery Grid -->
 
-<center>
+<p style="text-align: center;">
 
 <img src="images/marvel/marvel_characters_list.png" width="200">
 <img src="images/marvel/marvel_characters_detail.png" width="200">
 <img src="images/marvel/marvel_characters_cover_detail.png" width="200">
-</center>
+
+</p>
 
 [//]: # " Images"
 
