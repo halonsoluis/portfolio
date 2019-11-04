@@ -1,23 +1,43 @@
 [//]: # "Badges"
 
+<center>
+
 [![curriculum vitae][badge_downloadcv]][downloadCV]
 [![email][badge_mailTo]][mailTo]
 [![linkedIn][badge_linkedIn]][linkedIn]
+
 [![twitter][badge_twiiter]][twiiter]
 [![stackoverflow][badge_stackoverflow]][stackoverflow]
 
+</center>
 
-[//]: # "Projects"
+[//]: # "About me"
+
+
+<center>
+<img src="https://s.gravatar.com/avatar/940f6d1d1bede335b0af0a6c774fa12f?s=230" style="border-radius: 50%">
+
+# Hugo Alonso Luis
+</center>
+
+Hi!,
+A *happy human* that loves being a `coder` over here!
+
+I'm always eager to improve my skills and explore other points of view. I started to code in **C++** & **Java**, after several languages.., I'm now comfortably stuck with **Swift**. 
+
+I'm really curious, so I like to get a grasp of almost every disruptive technology... I guess I'm kind of a technological polygamist 😅. 
+
+Oh.. **I enjoy teaching**, I have been a 👨🏻‍🏫 for several years and through StackOverflow, I have had the opportunity to continue when not in the classroom.
+
+✌🏻
 
 # Marvel Characters
 
-[![Dependency Injection][badge_carthage]][carthage]
+[Marvel Characters](https://gitlab.com/hugoalonsoluis/marvel-characters) is a take-home project I completed as part of the interview process for an iOS Developer role in Portugal.
 
-[Marvel Characters](https://gitlab.com/hugoalonsoluis/marvel-characters) is a take-home project I completed as part of the interview process for an iOS Developer role. 
+The prototype/design was provided as a [Marvel Prototype](https://marvelapp.com/279b309/screen/10499832). The main idea was to present data from the [Marvel API](https://developer.marvel.com).
 
-The prototype/design was provided as a [Marvel Prototype](https://marvelapp.com/279b309/screen/10499832). The main idea was to obtain and present data from the [Marvel API](https://developer.marvel.com).
-
-I created a functional version in approximately 14 days using Swift 3, [RxSwift](https://github.com/ReactiveX/RxSwift) and Storyboards. It uses [Alamofire](https://github.com/Alamofire/Alamofire) for networking and [KingFisher](https://github.com/onevcat/Kingfisher) for caching of images.
+I created a functional version in approximately 14 days using Swift 3, [RxSwift](https://github.com/ReactiveX/RxSwift) and Storyboards. It uses [Alamofire](https://github.com/Alamofire/Alamofire) for networking and [KingFisher](https://github.com/onevcat/Kingfisher) for caching of images. For handling dependencies it was used [Carthage](https://github.com/Carthage/Carthage).
 
 This was the first time I used blur effects and custom transitions in an app, and I ❤️it! They can be appreciated in this [small video recorded in the simulator][marvelCharactersVideo].
 
@@ -25,11 +45,13 @@ Later on, I started experimenting with it and it has been my playground for test
 
 
 <!-- Portfolio Gallery Grid -->
-<p align="center">
-<img src="images/marvel/marvel_characters_list.png" width="230">
-<img src="images/marvel/marvel_characters_detail.png" width="230">
-<img src="images/marvel/marvel_characters_cover_detail.png" width="230">
-</p>
+
+<center>
+
+<img src="images/marvel/marvel_characters_list.png" width="200">
+<img src="images/marvel/marvel_characters_detail.png" width="200">
+<img src="images/marvel/marvel_characters_cover_detail.png" width="200">
+</center>
 
 [//]: # " Images"
 
@@ -46,7 +68,6 @@ Later on, I started experimenting with it and it has been my playground for test
 
 [//]: # "Links"
 
-[carthage]: https://github.com/Carthage/Carthage
 [downloadCV]: /files/cv.pdf
 [mailTo]: mailto:hugoalonsoluis@gmail.com
 [stackoverflow]: https://stackoverflow.com/story/hugo-alonso-luis
