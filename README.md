@@ -43,7 +43,7 @@ Later on, I started experimenting with it and it has been my playground for test
 <img src="images/marvel/marvel_characters_list.png" width="200">
 <img src="images/marvel/marvel_characters_detail.png" width="200">
 <img src="images/marvel/marvel_characters_cover_detail.png" width="200">
-
+<img src="./images/marvel/marvel-characters-transitions-video.gif" width="200">
 </p>
 
 [//]: # " Images"
