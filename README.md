@@ -15,7 +15,7 @@
 Hi!,
 A *happy human* that loves being a `coder` over here!
 
-I'm always eager to improve my skills and explore other points of view. I started to code in **C++** & **Java**, after several languages.., I'm now comfortably stuck with **Swift**. 
+I'm always eager to improve my skills and explore other points of view. I started to code in **Delphi**, **C++** & **Java**, after several languages and technologies.., I'm now comfortably using **Swift** for creating iOS apps. 
 
 I'm really curious, so I like to get a grasp of almost every disruptive technology... I guess I'm kind of a technological polygamist 😅. 
 
