@@ -60,9 +60,9 @@ Later on, I started experimenting with it and it has been my playground for test
 
 <p align="center">
 
-<img src="images/cachivache/thumb_IMG_6102_1024.jpg" width="180">
-<img src="images/cachivache/IMG_4343.jpg" width="180">
-<img src="images/cachivache/thumb_IMG_4344_1024.jpg" width="180">
+<img src="images/cachivache/thumb_IMG_6102_1024.jpg" width="230">
+<img src="images/cachivache/IMG_4343.jpg" width="230">
+<img src="images/cachivache/thumb_IMG_4344_1024.jpg" width="230">
 </p>
 
 ## My contribution
@@ -83,8 +83,8 @@ description...
 <p align="center">
 
 <img src="images/tictactoe/10317612_417722195053616_5585854246365785522_o.jpg">
-<img src="./images/tictactoe/IMG_2706.PNG" width="175">
-<img src="./images/tictactoe/thumb_IMG_5291_1024.jpg" width="175">
+<img src="./images/tictactoe/IMG_2706.PNG" width="230">
+<img src="./images/tictactoe/thumb_IMG_5291_1024.jpg" width="230">
 
 <img src="./images/tictactoe/6337d827651605.5636885540c74.gif" width="230">
 </p>
@@ -106,12 +106,10 @@ description...
 <!-- Portfolio Gallery Grid -->
 
 <p align="center">
-<img src="images/Meryl Collections/IMG_0045.jpg" width="180">
-<img src="images/Meryl Collections/IMG_0040.jpg" width="180">
-<img src="images/Meryl Collections/IMG_0042.jpg" width="180">
-
-
-<img src="images/Meryl Collections/3f7eb127643619.56368675d79c9.gif" width="550">
+<img src="images/Meryl Collections/IMG_0045.jpg" width="230">
+<img src="images/Meryl Collections/IMG_0040.jpg" width="230">
+<img src="images/Meryl Collections/IMG_0042.jpg" width="230">
+<img src="images/Meryl Collections/3f7eb127643619.56368675d79c9.gif">
 </p>
 
 ## My contribution
