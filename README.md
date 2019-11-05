@@ -31,7 +31,7 @@ The prototype/design was provided as a [Marvel Prototype](https://marvelapp.com/
 
 I created a functional version in approximately 14 days using Swift 3, [RxSwift](https://github.com/ReactiveX/RxSwift) and Storyboards. It uses [Alamofire](https://github.com/Alamofire/Alamofire) for networking and [KingFisher](https://github.com/onevcat/Kingfisher) for caching of images. For handling dependencies it was used [Carthage](https://github.com/Carthage/Carthage).
 
-This was the first time I used blur effects and custom transitions in an app, and I ❤️it! They can be appreciated in this [small video recorded in the simulator][marvelCharactersVideo].
+This was the first time I used blur effects and custom transitions in an app, and I ❤️it!
 
 Later on, I started experimenting with it and it has been my playground for testing and Continuous Integration using [GitlabCI](https://about.gitlab.com/product/continuous-integration/). Currently is updated to Swift 5.
 
@@ -42,9 +42,13 @@ Later on, I started experimenting with it and it has been my playground for test
 
 <img src="images/marvel/marvel_characters_list.png" width="200">
 <img src="images/marvel/marvel_characters_detail.png" width="200">
-<img src="images/marvel/marvel_characters_cover_detail.png" width="200">
-<img src="./images/marvel/marvel-characters-transitions-video.gif" width="200">
+<img src="./images/marvel/marvel-characters-transitions-video.gif" width="169">
 </p>
+
+## Links to the project
+
+- Gitlab (original) -> https://gitlab.com/hugoalonsoluis/marvel-characters
+- Github -> https://github.com/halonsoluis/marvel-characters
 
 [//]: # " Images"
 
