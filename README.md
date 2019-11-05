@@ -52,9 +52,77 @@ Later on, I started experimenting with it and it has been my playground for test
 - Gitlab (original) -> [https://gitlab.com/hugoalonsoluis/marvel-characters](https://gitlab.com/hugoalonsoluis/marvel-characters)
 - Github -> [https://github.com/halonsoluis/marvel-characters](https://github.com/halonsoluis/marvel-characters)
 
-[//]: # " Images"
+# Cachivache
 
-[marvelCharactersVideo]: ./images/marvel/marvel-characters-transitions-video.gif
+[Cachivache](https://gitlab.com/hugoalonsoluis/Cachivache) description
+
+<!-- Portfolio Gallery Grid -->
+
+<p align="center">
+
+<img src="images/cachivache/thumb_IMG_6102_1024.jpg" width="180">
+<img src="images/cachivache/IMG_4343.jpg" width="180">
+<img src="images/cachivache/thumb_IMG_4344_1024.jpg" width="180">
+</p>
+
+## My contribution
+
+ahsgfkasgf
+
+## Links to the project
+
+- Gitlab (original) -> [https://gitlab.com/hugoalonsoluis/marvel-characters](https://gitlab.com/hugoalonsoluis/marvel-characters)
+- Github -> [https://github.com/halonsoluis/marvel-characters](https://github.com/halonsoluis/marvel-characters)
+
+# Tic Tac Toe Widget Edition
+
+description...
+
+<!-- Portfolio Gallery Grid -->
+
+<p align="center">
+
+<img src="images/tictactoe/10317612_417722195053616_5585854246365785522_o.jpg">
+<img src="./images/tictactoe/IMG_2706.PNG" width="175">
+<img src="./images/tictactoe/thumb_IMG_5291_1024.jpg" width="175">
+
+<img src="./images/tictactoe/6337d827651605.5636885540c74.gif" width="230">
+</p>
+
+## My contribution
+
+My contribution on tic tac toe
+
+## Links to the project
+
+- Landing Page design -> [https://www.behance.net/gallery/27651605/TicTacToe-Widget](https://www.behance.net/gallery/27651605/TicTacToe-Widget)
+- Product Hunt -> [https://www.producthunt.com/posts/tictactoe-widget-edition](https://www.producthunt.com/posts/tictactoe-widget-edition)
+- AppAdvice -> [https://appadvice.com/app/tictactoe-widget-edition/966408407](https://appadvice.com/app/tictactoe-widget-edition/966408407)
+
+# Meryl Collections
+
+description...
+
+<!-- Portfolio Gallery Grid -->
+
+<p align="center">
+<img src="images/Meryl Collections/IMG_0045.jpg" width="180">
+<img src="images/Meryl Collections/IMG_0040.jpg" width="180">
+<img src="images/Meryl Collections/IMG_0042.jpg" width="180">
+
+
+<img src="images/Meryl Collections/3f7eb127643619.56368675d79c9.gif" width="550">
+</p>
+
+## My contribution
+
+My contribution on Meryl Collections
+
+## Links to the project
+
+- Landing Page design -> [https://www.behance.net/gallery/27643619/Meryl-App-for-iOS](https://www.behance.net/gallery/27643619/Meryl-App-for-iOS)
+- Product Hunt -> [https://www.producthunt.com/posts/tictactoe-widget-edition](https://www.producthunt.com/posts/tictactoe-widget-edition)
+- AppAdvice -> [https://appadvice.com/app/tictactoe-widget-edition/966408407](https://appadvice.com/app/tictactoe-widget-edition/966408407)
 
 [//]: # "Badges"
 
