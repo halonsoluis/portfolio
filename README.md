@@ -71,8 +71,7 @@ ahsgfkasgf
 
 ## Links to the project
 
-- Gitlab (original) -> [https://gitlab.com/hugoalonsoluis/marvel-characters](https://gitlab.com/hugoalonsoluis/marvel-characters)
-- Github -> [https://github.com/halonsoluis/marvel-characters](https://github.com/halonsoluis/marvel-characters)
+- Gitlab -> [https://gitlab.com/hugoalonsoluis/Cachivache](https://gitlab.com/hugoalonsoluis/Cachivache)
 
 # Tic Tac Toe Widget Edition
 
@@ -119,8 +118,6 @@ My contribution on Meryl Collections
 ## Links to the project
 
 - Landing Page design -> [https://www.behance.net/gallery/27643619/Meryl-App-for-iOS](https://www.behance.net/gallery/27643619/Meryl-App-for-iOS)
-- Product Hunt -> [https://www.producthunt.com/posts/tictactoe-widget-edition](https://www.producthunt.com/posts/tictactoe-widget-edition)
-- AppAdvice -> [https://appadvice.com/app/tictactoe-widget-edition/966408407](https://appadvice.com/app/tictactoe-widget-edition/966408407)
 
 [//]: # "Badges"
 
