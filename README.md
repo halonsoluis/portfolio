@@ -47,8 +47,8 @@ Later on, I started experimenting with it and it has been my playground for test
 
 ## Links to the project
 
-- Gitlab (original) -> https://gitlab.com/hugoalonsoluis/marvel-characters
-- Github -> https://github.com/halonsoluis/marvel-characters
+- Gitlab (original) -> [https://gitlab.com/hugoalonsoluis/marvel-characters](https://gitlab.com/hugoalonsoluis/marvel-characters)
+- Github -> [https://github.com/halonsoluis/marvel-characters](https://github.com/halonsoluis/marvel-characters)
 
 [//]: # " Images"
 
