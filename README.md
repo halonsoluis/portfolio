@@ -30,21 +30,22 @@ Oh.. **I enjoy teaching**, I have been a 👨🏻‍🏫 for several years and t
 
 The prototype/design was provided as a [Marvel Prototype](https://marvelapp.com/279b309/screen/10499832). The main idea was to present data from the [Marvel API](https://developer.marvel.com).
 
-I created a functional version in approximately 14 days using Swift 3, [RxSwift](https://github.com/ReactiveX/RxSwift) and Storyboards. It uses [Alamofire](https://github.com/Alamofire/Alamofire) for networking and [KingFisher](https://github.com/onevcat/Kingfisher) for caching of images. For handling dependencies it was used [Carthage](https://github.com/Carthage/Carthage).
-
-This was the first time I used blur effects and custom transitions in an app, and I ❤️it!
-
-Later on, I started experimenting with it and it has been my playground for testing and Continuous Integration using [GitlabCI](https://about.gitlab.com/product/continuous-integration/). Currently is updated to Swift 5.
-
-
 <!-- Portfolio Gallery Grid -->
 
 <p align="center">
 
 <img src="images/marvel/marvel_characters_list.png" width="230">
 <img src="images/marvel/marvel_characters_detail.png" width="230">
-<img src="./images/marvel/marvel-characters-transitions-video.gif" width=195">
+<img src="./images/marvel/marvel-characters-transitions-video.gif" width="195">
 </p>
+
+## My contribution
+
+I created a complete functional version in approximately 14 days using Swift 3, [RxSwift](https://github.com/ReactiveX/RxSwift) and Storyboards. It uses [Alamofire](https://github.com/Alamofire/Alamofire) for networking and [KingFisher](https://github.com/onevcat/Kingfisher) for caching of images. For handling dependencies it was used [Carthage](https://github.com/Carthage/Carthage).
+
+This was the first time I used blur effects and custom transitions in an app, and I ❤️it!
+
+Later on, I started experimenting with it and it has been my playground for testing and Continuous Integration using [GitlabCI](https://about.gitlab.com/product/continuous-integration/). Currently is updated to Swift 5.
 
 ## Links to the project
 
