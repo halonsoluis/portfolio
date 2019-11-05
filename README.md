@@ -7,8 +7,9 @@
 [![stackoverflow][badge_stackoverflow]][stackoverflow]
 
 [//]: # "About me"
-
+<p align="center">
 <img src="https://s.gravatar.com/avatar/940f6d1d1bede335b0af0a6c774fa12f?s=230" style="border-radius: 50%">
+</p>
 
 # Hugo Alonso Luis
 
@@ -38,7 +39,7 @@ Later on, I started experimenting with it and it has been my playground for test
 
 <!-- Portfolio Gallery Grid -->
 
-<p style="align: center;">
+<p align="center">
 
 <img src="images/marvel/marvel_characters_list.png" width="230">
 <img src="images/marvel/marvel_characters_detail.png" width="230">
