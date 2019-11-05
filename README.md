@@ -38,11 +38,11 @@ Later on, I started experimenting with it and it has been my playground for test
 
 <!-- Portfolio Gallery Grid -->
 
-<p style="text-align: center;">
+<p style="align: center;">
 
-<img src="images/marvel/marvel_characters_list.png" width="200">
-<img src="images/marvel/marvel_characters_detail.png" width="200">
-<img src="./images/marvel/marvel-characters-transitions-video.gif" width="169">
+<img src="images/marvel/marvel_characters_list.png" width="230">
+<img src="images/marvel/marvel_characters_detail.png" width="230">
+<img src="./images/marvel/marvel-characters-transitions-video.gif" width=195">
 </p>
 
 ## Links to the project
