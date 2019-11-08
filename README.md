@@ -24,6 +24,30 @@ Oh.. **I enjoy teaching**, I have been a 👨🏻‍🏫 for several years and t
 
 ✌🏻
 
+# Fora
+
+Fora is a 'proworking' App - Exclusive to FORA members and allows them to be constantly connected. It connects the user to their FORA concierge, other residents, allows to book meeting rooms and receive live travel updates.
+
+<!-- Portfolio Gallery Grid -->
+
+<p align="center">
+
+<img src="images/fora/1000x1000bb-4.jpg" width="230">
+<img src="images/fora/1000x1000bb-3.jpg" width="230">
+<img src="images/fora/1000x1000bb-2.jpg" width="230">
+</p>
+
+## My contribution
+
+I was part of the initial team working on the creation of all the online presence of FORA (Android, iOS, Web, Backend). 
+
+My role, as part of a team of 4 iOS developers, was to create the Minimum Viable Product.
+Our team work and motivation resulted on achieving the goals in record time and retain an important client.
+
+## Links to the project
+
+- [Fora on the Appstore](https://apps.apple.com/es/app/fora/id1160810227)
+
 # Marvel Characters
 
 [Marvel Characters](https://gitlab.com/hugoalonsoluis/marvel-characters) is a take-home project I completed as part of the interview process for an iOS Developer role in Portugal.
@@ -49,12 +73,21 @@ Later on, I started experimenting with it and it has been my playground for test
 
 ## Links to the project
 
-- Gitlab (original) -> [https://gitlab.com/hugoalonsoluis/marvel-characters](https://gitlab.com/hugoalonsoluis/marvel-characters)
-- Github -> [https://github.com/halonsoluis/marvel-characters](https://github.com/halonsoluis/marvel-characters)
+- [Gitlab link to the project (original)](https://gitlab.com/hugoalonsoluis/marvel-characters)
+- [Github link to the project](https://github.com/halonsoluis/marvel-characters)
 
 # Cachivache
 
-[Cachivache](https://gitlab.com/hugoalonsoluis/Cachivache) description
+[Cachivache](https://gitlab.com/hugoalonsoluis/Cachivache) was a project for allowing to download and visualize the contents of an independent, young and energetic publication startup dealing with the challenges that suppose the lack of connnectivity in Cuba.
+
+Main goal being to be able to bring offline access to all the posts made by their publication (cachivachemedia.com)
+It's some sort of a Pocket, but exclusively for them and having special consideration for offline use.
+
+It allowed to:
+
+- Favorite, download and visualize posts.
+- Set, edit and filter by tags.
+- Analytics across the app.
 
 <!-- Portfolio Gallery Grid -->
 
@@ -67,40 +100,61 @@ Later on, I started experimenting with it and it has been my playground for test
 
 ## My contribution
 
-ahsgfkasgf
+For this project I was the solo-developer. The app was in the AppStore until the publication decided to stop their project.
+
+Among the main challenges:
+- Download the content from the posts from Medium (where the publication is hosted)
+- Provide a customizable and reliable offline experience.
+- Guarantee that all the content is downloaded as fast as possible while connected to the internet (as in Cuba the internet is slow and limited/expensive in time)
 
 ## Links to the project
 
-- Gitlab -> [https://gitlab.com/hugoalonsoluis/Cachivache](https://gitlab.com/hugoalonsoluis/Cachivache)
+- [Gitlab link to the project](https://gitlab.com/hugoalonsoluis/Cachivache)
+- [CachivacheMedia](https://cachivachemedia.com)
+- [Old link to the app in the AppStore](https://itunes.apple.com/us/app/id1150154493)
 
 # Tic Tac Toe Widget Edition
 
-description...
+Tic Tac Toe Widget Edition allowed the user to play Tic Tac Toe directly from the iOS Notification Center and the Apple Watch.
+
+• Single player mode against an AI including 3 levels of difficulty
+
+• Multiplayer mode (Human vs Human in the same device)
+
+• Persistence of the statistics and state of the game when dismissing the Notification Center.
 
 <!-- Portfolio Gallery Grid -->
 
 <p align="center">
 
-<img src="images/tictactoe/10317612_417722195053616_5585854246365785522_o.jpg">
+<img src="images/tictactoe/10317612_417722195053616_5585854246365785522_o.jpg" width="770">
 <img src="./images/tictactoe/IMG_2706.PNG" width="230">
 <img src="./images/tictactoe/thumb_IMG_5291_1024.jpg" width="230">
 
-<img src="./images/tictactoe/6337d827651605.5636885540c74.gif" width="230">
+<img src="./images/tictactoe/6337d827651605.5636885540c74.gif" width="300">
 </p>
 
 ## My contribution
 
-My contribution on tic tac toe
+This app was created in the following months of the release of the widgets and apple watch APIs from Apple.
+
+The most challenging part of the development was the need to explore the limitants of the Widgets environment and discover & fix undocumented memory issues.
+
+From here that the app had to be rebuilt 3 times before we could publish it in the AppStore. Our standards about quality were high, and we couldn't allow an app that would close itself in unexpected moments.
+
+I can't denied that it was super fun and challenging to create. I was the leading a team of 4 iOS developers working on the app from concept to the AppStore.
 
 ## Links to the project
 
-- Landing Page design -> [https://www.behance.net/gallery/27651605/TicTacToe-Widget](https://www.behance.net/gallery/27651605/TicTacToe-Widget)
-- Product Hunt -> [https://www.producthunt.com/posts/tictactoe-widget-edition](https://www.producthunt.com/posts/tictactoe-widget-edition)
-- AppAdvice -> [https://appadvice.com/app/tictactoe-widget-edition/966408407](https://appadvice.com/app/tictactoe-widget-edition/966408407)
+- [Landing Page design](https://www.behance.net/gallery/27651605/TicTacToe-Widget)
+- [Product Hunt](https://www.producthunt.com/posts/tictactoe-widget-edition)
+- [AppAdvice](https://appadvice.com/app/tictactoe-widget-edition/966408407)
 
-# Meryl Collections
+# Nylstar Collections
 
-description...
+An app for the showcase of the **Collections Store** of Meryl.
+
+With the app a user could discover the latest fashion collections made with Meryl.
 
 <!-- Portfolio Gallery Grid -->
 
@@ -113,11 +167,14 @@ description...
 
 ## My contribution
 
-My contribution on Meryl Collections
+This was my first project as an iOS Developer. I was part of a team of 4 highly motivated guys craving for knowledge and excited about Swift.
+
+We built the app from scratch and many of it's following iterations once it was published in the AppStore. The work made demanded a lot of comunication, collaboration and iterations in design.
 
 ## Links to the project
 
-- Landing Page design -> [https://www.behance.net/gallery/27643619/Meryl-App-for-iOS](https://www.behance.net/gallery/27643619/Meryl-App-for-iOS)
+- [Landing Page design](https://www.behance.net/gallery/27643619/Meryl-App-for-iOS)
+- [AppAdvice](https://appadvice.com/app/nylstar-collections/989465882)
 
 [//]: # "Badges"
 
