@@ -176,6 +176,12 @@ We built the app from scratch and many of it's following iterations once it was 
 - [Landing Page design](https://www.behance.net/gallery/27643619/Meryl-App-for-iOS)
 - [AppAdvice](https://appadvice.com/app/nylstar-collections/989465882)
 
+# Other projects not yet added:
+- [BeatTune Meaningful heart rate](https://www.producthunt.com/posts/beattune-meaningful-heart-rate)
+- [Coris Asis](https://appadvice.com/app/corisasis/1062706925)
+- [WIND VISION](https://apps.apple.com/ao/app/wind-vision/id1373255885)
+- [A1 Xplore TV GO](https://apps.apple.com/bg/app/a1-xplore-tv-go/id1460357508)
+
 [//]: # "Badges"
 
 [badge_carthage]: https://img.shields.io/badge/Dependency_Injection-Carthage-blue.svg?style=for-the-badge&logoColor=white
