@@ -1,3 +1,6 @@
+[//]: # "Hero image"
+<img src="images/tictactoe/10317612_417722195053616_5585854246365785522_o.jpg">
+
 [//]: # "Badges"
 
 [![curriculum vitae][badge_downloadcv]][downloadCV]
@@ -127,7 +130,6 @@ Tic Tac Toe Widget Edition allowed the user to play Tic Tac Toe directly from th
 
 <p align="center">
 
-<img src="images/tictactoe/10317612_417722195053616_5585854246365785522_o.jpg" width="770">
 <img src="./images/tictactoe/IMG_2706.PNG" width="230">
 <img src="./images/tictactoe/thumb_IMG_5291_1024.jpg" width="230">
 
