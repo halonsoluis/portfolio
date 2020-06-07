@@ -61,8 +61,6 @@ I was part of the initial team working on the creation of all the online presenc
 
 My role, as part of a team of 4 iOS developers, was to create the Minimum Viable Product. Our teamwork and motivation resulted in achieving the goals in record time and retain an important client.
 
-### Links to the project
-
 - [Fora on the Appstore](https://apps.apple.com/es/app/fora/id1160810227)
 
 ## Marvel Characters
@@ -87,8 +85,6 @@ I created a completely functional version in approximately 14 days using Swift 3
 This was the first time I used blur effects and custom transitions in an app, and I ❤️it!
 
 Later on, I started experimenting with it and it has been my playground for testing and Continuous Integration using [GitlabCI](https://about.gitlab.com/product/continuous-integration/). Currently is updated to Swift 5.
-
-### Links to the project
 
 - [Gitlab link to the project (original)](https://gitlab.com/hugoalonsoluis/marvel-characters)
 - [Github link to the project](https://github.com/halonsoluis/marvel-characters)
@@ -119,8 +115,6 @@ It allowed to:
 For this project, I was the solo-developer. The app was in the AppStore until the publication decided to stop their project.
 
 Among the main challenges: - Download the content from the posts from Medium (where the publication is hosted) - Provide a customizable and reliable offline experience. - Guarantee that all the content is downloaded as fast as possible while connected to the internet (as in Cuba the internet is slow and limited/expensive in time)
-
-### Links to the project
 
 - [Gitlab link to the project](https://gitlab.com/hugoalonsoluis/Cachivache)
 - [CachivacheMedia](https://cachivachemedia.com)
@@ -156,8 +150,6 @@ From here that the app had to be rebuilt 3 times before we could publish it in t
 
 I can’t deny that it was super fun and challenging to create. I was leading a team of 4 iOS developers working on the app from concept to the AppStore.
 
-### Links to the project
-
 - [Landing Page design](https://www.behance.net/gallery/27651605/TicTacToe-Widget)
 - [Product Hunt](https://www.producthunt.com/posts/tictactoe-widget-edition)
 - [AppAdvice](https://appadvice.com/app/tictactoe-widget-edition/966408407)
@@ -183,15 +175,31 @@ This was my first project as an iOS Developer. I was part of a team of 4 highly 
 
 We built the app from scratch and many of it’s following iterations once it was published in the AppStore. The work made demanded a lot of communication, collaboration, and iterations in design.
 
-### Links to the project
-
 - [Landing Page design](https://www.behance.net/gallery/27643619/Meryl-App-for-iOS)
 - [AppAdvice](https://appadvice.com/app/nylstar-collections/989465882)
 
-## Other projects not yet added:
-- [BeatTune Meaningful heart rate](https://www.producthunt.com/posts/beattune-meaningful-heart-rate)
-- [Coris Asis](https://appadvice.com/app/corisasis/1062706925)
+## Beattune - Meaningful Heart Rate
 
+BeatTune gets its heart rate directly in real-time from the sensor on the Apple Watch by means of the Health App.
+
+The measurements were visile on the iPhone and on the Apple Watch. 
+
+The aim was to enhance lives and heighten awareness by monitoring any heart rate irregularities. BeatTune was able to show if the heart rate readings were in line with the type of activity. It was also able to highlights any irregularities that show up and keep a record of them.
+
+Impact:
+
+- **Top Apple Watch app of 2015** by AppAdvice
+- **Top 3** in Health and Fitness in the German Apple Store, 18th December - Featured in Product Hunt with over 100 votes
+- Press Coverage:
+
+  - *BeatTune: Meaningful Heart Rate alerts you of risk* by AppAdvice
+  - *BeatTune für Apple Watch: Ein sinnvolle Herzfrequenz-Anzeige* by iPhone-ticker.de
+
+[BeatTune - Meaningful Heart Rate](https://www.producthunt.com/posts/beattune-meaningful-heart-rate)
+
+swift ios watch-os watchconnectivity nsuserdefaults plist health-kit
+
+---
 [//]: # "Badges"
 
 [badge_carthage]: https://img.shields.io/badge/Dependency_Injection-Carthage-blue.svg?style=for-the-badge&logoColor=white
