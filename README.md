@@ -27,9 +27,25 @@ Oh.. **I enjoy teaching**, I have been a 👨🏻‍🏫 for several years and t
 
 ✌🏻
 
-# Fora
+# **What I have been doing recently?**
 
-Fora is a 'proworking' App - Exclusive to FORA members and allows them to be constantly connected. It connects the user to their FORA concierge, other residents, allows to book meeting rooms and receive live travel updates.
+## Nexx4 - Zappware
+
+[‎Xplore TV](https://apps.apple.com/si/app/xplore-tv/id1026808263)
+
+[‎Xplore TV](https://apps.apple.com/hr/app/xplore-tv/id1026808263)
+
+[‎A1 Xplore TV Go (SI)](https://apps.apple.com/us/app/a1-xplore-tv-go-si/id1480210724)
+
+[‎A1 Xplore TV GO](https://apps.apple.com/bg/app/a1-xplore-tv-go/id1460357508)
+
+[‎WIND VISION](https://apps.apple.com/us/app/wind-vision/id1373255885)
+
+[‎AMPLIA TV](https://apps.apple.com/tt/app/amplia-tv/id1495390960)
+
+## Fora
+
+Fora is a ‘pro-working’ App - Exclusive to FORA members and allows them to be constantly connected. It connects the user to their FORA concierge, other residents, allows to book meeting rooms, and receive live travel updates.
 
 <!-- Portfolio Gallery Grid -->
 
@@ -178,11 +194,9 @@ We built the app from scratch and many of it's following iterations once it was 
 - [Landing Page design](https://www.behance.net/gallery/27643619/Meryl-App-for-iOS)
 - [AppAdvice](https://appadvice.com/app/nylstar-collections/989465882)
 
-# Other projects not yet added:
+## Other projects not yet added:
 - [BeatTune Meaningful heart rate](https://www.producthunt.com/posts/beattune-meaningful-heart-rate)
 - [Coris Asis](https://appadvice.com/app/corisasis/1062706925)
-- [WIND VISION](https://apps.apple.com/ao/app/wind-vision/id1373255885)
-- [A1 Xplore TV GO](https://apps.apple.com/bg/app/a1-xplore-tv-go/id1460357508)
 
 [//]: # "Badges"
 
