@@ -10,10 +10,6 @@
 [![stackoverflow][badge_stackoverflow]][stackoverflow]
 
 [//]: # "About me"
-<p align="center">
-<img src="https://s.gravatar.com/avatar/940f6d1d1bede335b0af0a6c774fa12f?s=230" style="border-radius: 50%">
-</p>
-
 # Hugo Alonso Luis
 
 Hi!, A *happy human* that loves being a `coder` over here!
