@@ -197,9 +197,6 @@ Impact:
 
 [BeatTune - Meaningful Heart Rate](https://www.producthunt.com/posts/beattune-meaningful-heart-rate)
 
-swift ios watch-os watchconnectivity nsuserdefaults plist health-kit
-
----
 [//]: # "Badges"
 
 [badge_carthage]: https://img.shields.io/badge/Dependency_Injection-Carthage-blue.svg?style=for-the-badge&logoColor=white
