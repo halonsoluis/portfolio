@@ -16,12 +16,11 @@
 
 # Hugo Alonso Luis
 
-Hi!,
-A *happy human* that loves being a `coder` over here!
+Hi!, A *happy human* that loves being a `coder` over here!
 
-I'm always eager to improve my skills and explore other points of view. I started to code in **Delphi**, **C++** & **Java**, after several languages and technologies.., I'm now comfortably using **Swift** for creating iOS apps. 
+I’m always eager to improve my skills and explore other points of view. I started to code in **Delphi**, **C++** & **Java**, after several languages and technologies.., I’m now comfortably using **Swift** for creating iOS apps.
 
-I'm really curious, so I like to get a grasp of almost every disruptive technology... I guess I'm kind of a technological polygamist 😅. 
+I’m really curious, so I like to get a grasp of almost every disruptive technology… I guess I’m kind of a technological polygamist 😅.
 
 Oh.. **I enjoy teaching**, I have been a 👨🏻‍🏫 for several years and through StackOverflow, I have had the opportunity to continue when not in the classroom.
 
@@ -56,22 +55,21 @@ Fora is a ‘pro-working’ App - Exclusive to FORA members and allows them to b
 <img src="images/fora/1000x1000bb-2.jpg" width="230">
 </p>
 
-## My contribution
+### My contribution
 
-I was part of the initial team working on the creation of all the online presence of FORA (Android, iOS, Web, Backend). 
+I was part of the initial team working on the creation of all the online presence of FORA (Android, iOS, Web, Backend).
 
-My role, as part of a team of 4 iOS developers, was to create the Minimum Viable Product.
-Our team work and motivation resulted on achieving the goals in record time and retain an important client.
+My role, as part of a team of 4 iOS developers, was to create the Minimum Viable Product. Our teamwork and motivation resulted in achieving the goals in record time and retain an important client.
 
-## Links to the project
+### Links to the project
 
 - [Fora on the Appstore](https://apps.apple.com/es/app/fora/id1160810227)
 
-# Marvel Characters
+## Marvel Characters
 
 [Marvel Characters](https://gitlab.com/hugoalonsoluis/marvel-characters) is a take-home project I completed as part of the interview process for an iOS Developer role in Portugal.
 
-The prototype/design was provided as a [Marvel Prototype](https://marvelapp.com/279b309/screen/10499832). The main idea was to present data from the [Marvel API](https://developer.marvel.com).
+The prototype/design was provided as a [Marvel Prototype](https://marvelapp.com/279b309/screen/10499832). The main idea was to present data from the [Marvel API](https://developer.marvel.com/).
 
 <!-- Portfolio Gallery Grid -->
 
@@ -82,25 +80,24 @@ The prototype/design was provided as a [Marvel Prototype](https://marvelapp.com/
 <img src="./images/marvel/marvel-characters-transitions-video.gif" width="195">
 </p>
 
-## My contribution
+### My contribution
 
-I created a complete functional version in approximately 14 days using Swift 3, [RxSwift](https://github.com/ReactiveX/RxSwift) and Storyboards. It uses [Alamofire](https://github.com/Alamofire/Alamofire) for networking and [KingFisher](https://github.com/onevcat/Kingfisher) for caching of images. For handling dependencies it was used [Carthage](https://github.com/Carthage/Carthage).
+I created a completely functional version in approximately 14 days using Swift 3, [RxSwift](https://github.com/ReactiveX/RxSwift) and Storyboards. It uses [Alamofire](https://github.com/Alamofire/Alamofire) for networking and [KingFisher](https://github.com/onevcat/Kingfisher) for the caching of images. For handling dependencies it was used [Carthage](https://github.com/Carthage/Carthage).
 
 This was the first time I used blur effects and custom transitions in an app, and I ❤️it!
 
 Later on, I started experimenting with it and it has been my playground for testing and Continuous Integration using [GitlabCI](https://about.gitlab.com/product/continuous-integration/). Currently is updated to Swift 5.
 
-## Links to the project
+### Links to the project
 
 - [Gitlab link to the project (original)](https://gitlab.com/hugoalonsoluis/marvel-characters)
 - [Github link to the project](https://github.com/halonsoluis/marvel-characters)
 
-# Cachivache
+## Cachivache
 
-[Cachivache](https://gitlab.com/hugoalonsoluis/Cachivache) was a project for allowing to download and visualize the contents of an independent, young and energetic publication startup dealing with the challenges that suppose the lack of connnectivity in Cuba.
+[Cachivache](https://gitlab.com/hugoalonsoluis/Cachivache) was a project for allowing to download and visualize the contents of an independent, young, and energetic publication startup dealing with the challenges that suppose the lack of connectivity in Cuba.
 
-Main goal being to be able to bring offline access to all the posts made by their publication (cachivachemedia.com)
-It's some sort of a Pocket, but exclusively for them and having special consideration for offline use.
+Main goal being to be able to bring offline access to all the posts made by their publication (cachivachemedia.com) It’s some sort of a Pocket, but exclusively for them and having special consideration for offline us
 
 It allowed to:
 
@@ -117,22 +114,19 @@ It allowed to:
 <img src="images/cachivache/thumb_IMG_4344_1024.jpg" width="230">
 </p>
 
-## My contribution
+### My contribution
 
-For this project I was the solo-developer. The app was in the AppStore until the publication decided to stop their project.
+For this project, I was the solo-developer. The app was in the AppStore until the publication decided to stop their project.
 
-Among the main challenges:
-- Download the content from the posts from Medium (where the publication is hosted)
-- Provide a customizable and reliable offline experience.
-- Guarantee that all the content is downloaded as fast as possible while connected to the internet (as in Cuba the internet is slow and limited/expensive in time)
+Among the main challenges: - Download the content from the posts from Medium (where the publication is hosted) - Provide a customizable and reliable offline experience. - Guarantee that all the content is downloaded as fast as possible while connected to the internet (as in Cuba the internet is slow and limited/expensive in time)
 
-## Links to the project
+### Links to the project
 
 - [Gitlab link to the project](https://gitlab.com/hugoalonsoluis/Cachivache)
 - [CachivacheMedia](https://cachivachemedia.com)
 - [Old link to the app in the AppStore](https://itunes.apple.com/us/app/id1150154493)
 
-# Tic Tac Toe Widget Edition
+## Tic Tac Toe Widget Edition
 
 Tic Tac Toe Widget Edition allowed the user to play Tic Tac Toe directly from the iOS Notification Center and the Apple Watch.
 
@@ -152,27 +146,27 @@ Tic Tac Toe Widget Edition allowed the user to play Tic Tac Toe directly from th
 <img src="./images/tictactoe/6337d827651605.5636885540c74.gif" width="300">
 </p>
 
-## My contribution
+### My contribution
 
 This app was created in the following months of the release of the widgets and apple watch APIs from Apple.
 
-The most challenging part of the development was the need to explore the limitants of the Widgets environment and discover & fix undocumented memory issues.
+The most challenging part of the development was the need to explore the limits of the Widgets environment and discover & fix undocumented memory issues.
 
-From here that the app had to be rebuilt 3 times before we could publish it in the AppStore. Our standards about quality were high, and we couldn't allow an app that would close itself in unexpected moments.
+From here that the app had to be rebuilt 3 times before we could publish it in the AppStore. Our standards about quality were high, and we couldn’t allow an app that would close itself in unexpected moments.
 
-I can't denied that it was super fun and challenging to create. I was the leading a team of 4 iOS developers working on the app from concept to the AppStore.
+I can’t deny that it was super fun and challenging to create. I was leading a team of 4 iOS developers working on the app from concept to the AppStore.
 
-## Links to the project
+### Links to the project
 
 - [Landing Page design](https://www.behance.net/gallery/27651605/TicTacToe-Widget)
 - [Product Hunt](https://www.producthunt.com/posts/tictactoe-widget-edition)
 - [AppAdvice](https://appadvice.com/app/tictactoe-widget-edition/966408407)
 
-# Nylstar Collections
+## Nylstar Collections
 
 An app for the showcase of the **Collections Store** of Meryl.
 
-With the app a user could discover the latest fashion collections made with Meryl.
+With the app, a user could discover the latest fashion collections made with Meryl.
 
 <!-- Portfolio Gallery Grid -->
 
@@ -183,13 +177,13 @@ With the app a user could discover the latest fashion collections made with Mery
 <img src="images/Meryl Collections/3f7eb127643619.56368675d79c9.gif" width="700">
 </p>
 
-## My contribution
+### My contribution
 
 This was my first project as an iOS Developer. I was part of a team of 4 highly motivated guys craving for knowledge and excited about Swift.
 
-We built the app from scratch and many of it's following iterations once it was published in the AppStore. The work made demanded a lot of comunication, collaboration and iterations in design.
+We built the app from scratch and many of it’s following iterations once it was published in the AppStore. The work made demanded a lot of communication, collaboration, and iterations in design.
 
-## Links to the project
+### Links to the project
 
 - [Landing Page design](https://www.behance.net/gallery/27643619/Meryl-App-for-iOS)
 - [AppAdvice](https://appadvice.com/app/nylstar-collections/989465882)
