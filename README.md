@@ -26,7 +26,16 @@ Oh.. **I enjoy teaching**, I have been a 👨🏻‍🏫 for several years and t
 
 ## Nexx4 - Zappware
 
-Nexx4 is an award winning streaming solution deployed by Zappware. 
+Nexx4 is an award winning streaming solution deployed by Zappware.
+
+<p align="center">
+
+<img src="images/nexx4/nexx4-amplia-now.jpg" width="230">
+<img src="images/nexx4/nexx4-wind-channels.jpg" width="230">
+<img src="images/nexx4/nexx4-wind-guide.jpg" width="230">
+</p>
+
+### My contribution
 
 The app supports feature flags, custom theming and use a wide tech stack: 
 swift5.2,
