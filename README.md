@@ -26,13 +26,29 @@ Oh.. **I enjoy teaching**, I have been a 👨🏻‍🏫 for several years and t
 
 ## Nexx4 - Zappware
 
-[‎Xplore TV](https://apps.apple.com/si/app/xplore-tv/id1026808263)
+Nexx4 is an award winning streaming solution deployed by Zappware. 
 
-[‎Xplore TV](https://apps.apple.com/hr/app/xplore-tv/id1026808263)
+The app supports feature flags, custom theming and use a wide tech stack: 
+swift5.2,
+snapkit,
+cocoapods,
+dependency-injection,
+video-streaming,
+mvvm,
+rx-swift,
+realm,
+swinject,
+redux
+
+As part of an small iOS team I have been able to lead, grow professionally, provide mentorship and enjoy of the release of the following apps:
+
+[‎Xplore TV (AT)](https://apps.apple.com/at/app/xplore-tv-at/id1441399011?mt=8)
+
+[‎Xplore TV (HR)](https://apps.apple.com/hr/app/a1-xplore-tv-go/id1481346463)
 
 [‎A1 Xplore TV Go (SI)](https://apps.apple.com/us/app/a1-xplore-tv-go-si/id1480210724)
 
-[‎A1 Xplore TV GO](https://apps.apple.com/bg/app/a1-xplore-tv-go/id1460357508)
+[‎A1 Xplore TV GO (BG)](https://apps.apple.com/bg/app/a1-xplore-tv-go/id1460357508)
 
 [‎WIND VISION](https://apps.apple.com/us/app/wind-vision/id1373255885)
 
