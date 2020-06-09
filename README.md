@@ -39,19 +39,20 @@ Nexx4 is an award winning streaming solution deployed by Zappware.
 
 ### My contribution
 
-The app supports feature flags, custom theming and use a wide tech stack: 
-swift5.2,
-snapkit,
-cocoapods,
-dependency-injection,
-video-streaming,
-mvvm,
-rx-swift,
-realm,
-swinject,
-redux
+The app supports feature flags, custom theming and use a wide tech stack:
 
-As part of an small iOS team I have been able to lead, grow professionally, provide mentorship and enjoy of the release of the following apps:
+`swift5.2`,
+`snapkit`,
+`cocoapods`,
+`dependency-injection`,
+`video-streaming`,
+`mvvm`,
+`rx-swift`,
+`realm`,
+`swinject`,
+`redux`
+
+As part of a small iOS team I have been able to lead, grow professionally, provide mentorship and enjoy of the release of the following apps:
 
 - [‎Xplore TV (AT)](https://apps.apple.com/at/app/xplore-tv-at/id1441399011?mt=8)
 
