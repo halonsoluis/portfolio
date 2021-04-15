@@ -18,7 +18,7 @@ I’m always eager to improve my skills and explore other points of view. I star
 
 I’m really curious, so I like to get a grasp of almost every disruptive technology… I guess I’m kind of a technological polygamist 😅.
 
-Oh.. **I enjoy teaching**, I have been a 👨🏻‍🏫 for several years and through StackOverflow, I have had the opportunity to continue when not in the classroom.
+Oh.. **I enjoy mentoring**, I have been a 👨🏻‍🏫 for several years, when not in a classroom, I like to share knowledge via StackOverflow or coding sessions with my colleagues.
 
 ✌🏻
 
@@ -41,7 +41,7 @@ Nexx4 is an award winning streaming solution deployed by Zappware.
 
 The app supports feature flags, custom theming and use a wide tech stack:
 
-`swift5.2`,
+`swift5.3`,
 `snapkit`,
 `cocoapods`,
 `dependency-injection`,
@@ -54,16 +54,12 @@ The app supports feature flags, custom theming and use a wide tech stack:
 
 As part of a small iOS team I have been able to lead, grow professionally, provide mentorship and enjoy of the release of the following apps:
 
-- [‎Xplore TV (AT)](https://apps.apple.com/at/app/xplore-tv-at/id1441399011?mt=8)
-
-- [‎Xplore TV (HR)](https://apps.apple.com/hr/app/a1-xplore-tv-go/id1481346463)
-
-- [‎A1 Xplore TV Go (SI)](https://apps.apple.com/us/app/a1-xplore-tv-go-si/id1480210724)
-
-- [‎A1 Xplore TV GO (BG)](https://apps.apple.com/bg/app/a1-xplore-tv-go/id1460357508)
-
+- [‎Xplore TV AT (Austria)](https://apps.apple.com/at/app/xplore-tv-at/id1441399011?mt=8)
+- [A1 ‎Xplore TV:GO (Croatia)](https://apps.apple.com/hr/app/a1-xplore-tv-go/id1481346463)
+- [‎A1 Xplore TV Go (Slovenia)](https://apps.apple.com/us/app/a1-xplore-tv-go-si/id1480210724)
+- [‎A1 Xplore TV GO (Bulgaria)](https://apps.apple.com/bg/app/a1-xplore-tv-go/id1460357508)
+- [‎A1 Xplore TV GO (Macedonia)](https://apps.apple.com/mk/app/xplore-tv/id1026808263)
 - [‎WIND VISION](https://apps.apple.com/us/app/wind-vision/id1373255885)
-
 - [‎AMPLIA TV](https://apps.apple.com/tt/app/amplia-tv/id1495390960)
 
 ## Fora
